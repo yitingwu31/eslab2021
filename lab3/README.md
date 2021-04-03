@@ -1,6 +1,7 @@
 # mbed-os-wifi-socket-snake-game #
 
 A classic snake game using accelerometer and Wi-Fi for Mbed OS.
+
 Demo Video: https://www.youtube.com/watch?v=0sybx2__hVo
 
 ##  Getting started ##
