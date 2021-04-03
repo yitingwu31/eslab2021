@@ -56,3 +56,6 @@ A classic snake game using accelerometer and Wi-Fi for Mbed OS.
 3. Move and tilt the STM32 board to try it out!!
    
    Have fun and enjoy :)))
+
+## References
+Python Snake Game: https://www.edureka.co/blog/snake-game-with-pygame/
