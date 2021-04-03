@@ -1,0 +1,7 @@
+.config/
+.docker/
+.mbed
+.hg/
+.hgignore
+.vim/
+.yarnrc
